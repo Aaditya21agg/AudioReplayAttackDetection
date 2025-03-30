@@ -220,5 +220,5 @@ def main():
     train_model(X, y)
 
 if __name__ == "__main__":
->>>>>>> 8c40da74dca48425012df86553b49ed0e17b7159
+
     main()
